@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="vgTags:jar">
+    <output-path>$USER_HOME$/Documents/Projects/minecraft-servers/1.20.1/plugins</output-path>
+    <root id="archive" name="vgTags.jar">
+      <element id="module-output" name="vgTags" />
+    </root>
+  </artifact>
+</component>
